@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "AIEvoMed"
+title: "What We Do?"
 author_profile: true
 redirect_from: 
   - /about/
