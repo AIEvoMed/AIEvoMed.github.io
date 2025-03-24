@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "人工智能演化医疗实验室"
+title: "AIEvoMed"
 author_profile: true
 redirect_from: 
   - /about/
