@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "人工智能演化医疗实验室"
 author_profile: true
 redirect_from: 
   - /about/
